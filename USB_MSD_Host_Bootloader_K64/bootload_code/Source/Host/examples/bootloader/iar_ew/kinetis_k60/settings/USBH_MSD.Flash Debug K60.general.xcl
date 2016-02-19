@@ -1,0 +1,15 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armjlink.dll" 
+
+"C:\Users\b51443\Desktop\K64 U ÅÌÉý¼¶³ÌÐò\USB_MSD_Host_Bootloader\bootload_code\Source\Host\examples\bootloader\iar_ew\kinetis_k60\Flash Debug K60\Exe\USBH_MSD.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\config\debugger\Freescale\Kxx.dmac" 
+
+--flash_loader "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\config\flashloader\Freescale\FlashK64Fxxx128K.board" 
+
+
+
+

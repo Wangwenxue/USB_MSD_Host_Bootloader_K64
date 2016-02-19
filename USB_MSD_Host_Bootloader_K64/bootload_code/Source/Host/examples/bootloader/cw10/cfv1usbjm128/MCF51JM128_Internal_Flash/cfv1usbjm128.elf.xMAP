@@ -1,0 +1,928 @@
+
+
+
+# .abs_vector_0
+  00000000 00000004 .abs    vector_0	(exceptions_c.obj)
+
+# .abs_vector_1
+  00000004 00000004 .abs    vector_1	(exceptions_c.obj)
+
+# .abs_vector_2
+  00000008 00000004 .abs    vector_2	(exceptions_c.obj)
+
+# .abs_vector_3
+  0000000C 00000004 .abs    vector_3	(exceptions_c.obj)
+
+# .abs_vector_4
+  00000010 00000004 .abs    vector_4	(exceptions_c.obj)
+
+# .abs_vector_5
+  00000014 00000004 .abs    vector_5	(exceptions_c.obj)
+
+# .abs_vector_6
+  00000018 00000004 .abs    vector_6	(exceptions_c.obj)
+
+# .abs_vector_7
+  0000001C 00000004 .abs    vector_7	(exceptions_c.obj)
+
+# .abs_vector_8
+  00000020 00000004 .abs    vector_8	(exceptions_c.obj)
+
+# .abs_vector_9
+  00000024 00000004 .abs    vector_9	(exceptions_c.obj)
+
+# .abs_vector_10
+  00000028 00000004 .abs    vector_10	(exceptions_c.obj)
+
+# .abs_vector_11
+  0000002C 00000004 .abs    vector_11	(exceptions_c.obj)
+
+# .abs_vector_12
+  00000030 00000004 .abs    vector_12	(exceptions_c.obj)
+
+# .abs_vector_13
+  00000034 00000004 .abs    vector_13	(exceptions_c.obj)
+
+# .abs_vector_14
+  00000038 00000004 .abs    vector_14	(exceptions_c.obj)
+
+# .abs_vector_15
+  0000003C 00000004 .abs    vector_15	(exceptions_c.obj)
+
+# .abs_vector_16
+  00000040 00000004 .abs    vector_16	(exceptions_c.obj)
+
+# .abs_vector_17
+  00000044 00000004 .abs    vector_17	(exceptions_c.obj)
+
+# .abs_vector_18
+  00000048 00000004 .abs    vector_18	(exceptions_c.obj)
+
+# .abs_vector_19
+  0000004C 00000004 .abs    vector_19	(exceptions_c.obj)
+
+# .abs_vector_20
+  00000050 00000004 .abs    vector_20	(exceptions_c.obj)
+
+# .abs_vector_21
+  00000054 00000004 .abs    vector_21	(exceptions_c.obj)
+
+# .abs_vector_22
+  00000058 00000004 .abs    vector_22	(exceptions_c.obj)
+
+# .abs_vector_23
+  0000005C 00000004 .abs    vector_23	(exceptions_c.obj)
+
+# .abs_vector_24
+  00000060 00000004 .abs    vector_24	(exceptions_c.obj)
+
+# .abs_vector_25
+  00000064 00000004 .abs    vector_25	(exceptions_c.obj)
+
+# .abs_vector_26
+  00000068 00000004 .abs    vector_26	(exceptions_c.obj)
+
+# .abs_vector_27
+  0000006C 00000004 .abs    vector_27	(exceptions_c.obj)
+
+# .abs_vector_28
+  00000070 00000004 .abs    vector_28	(exceptions_c.obj)
+
+# .abs_vector_29
+  00000074 00000004 .abs    vector_29	(exceptions_c.obj)
+
+# .abs_vector_30
+  00000078 00000004 .abs    vector_30	(exceptions_c.obj)
+
+# .abs_vector_31
+  0000007C 00000004 .abs    vector_31	(exceptions_c.obj)
+
+# .abs_vector_32
+  00000080 00000004 .abs    vector_32	(exceptions_c.obj)
+
+# .abs_vector_33
+  00000084 00000004 .abs    vector_33	(exceptions_c.obj)
+
+# .abs_vector_34
+  00000088 00000004 .abs    vector_34	(exceptions_c.obj)
+
+# .abs_vector_35
+  0000008C 00000004 .abs    vector_35	(exceptions_c.obj)
+
+# .abs_vector_36
+  00000090 00000004 .abs    vector_36	(exceptions_c.obj)
+
+# .abs_vector_37
+  00000094 00000004 .abs    vector_37	(exceptions_c.obj)
+
+# .abs_vector_38
+  00000098 00000004 .abs    vector_38	(exceptions_c.obj)
+
+# .abs_vector_39
+  0000009C 00000004 .abs    vector_39	(exceptions_c.obj)
+
+# .abs_vector_40
+  000000A0 00000004 .abs    vector_40	(exceptions_c.obj)
+
+# .abs_vector_41
+  000000A4 00000004 .abs    vector_41	(exceptions_c.obj)
+
+# .abs_vector_42
+  000000A8 00000004 .abs    vector_42	(exceptions_c.obj)
+
+# .abs_vector_43
+  000000AC 00000004 .abs    vector_43	(exceptions_c.obj)
+
+# .abs_vector_44
+  000000B0 00000004 .abs    vector_44	(exceptions_c.obj)
+
+# .abs_vector_45
+  000000B4 00000004 .abs    vector_45	(exceptions_c.obj)
+
+# .abs_vector_46
+  000000B8 00000004 .abs    vector_46	(exceptions_c.obj)
+
+# .abs_vector_47
+  000000BC 00000004 .abs    vector_47	(exceptions_c.obj)
+
+# .abs_vector_48
+  000000C0 00000004 .abs    vector_48	(exceptions_c.obj)
+
+# .abs_vector_49
+  000000C4 00000004 .abs    vector_49	(exceptions_c.obj)
+
+# .abs_vector_50
+  000000C8 00000004 .abs    vector_50	(exceptions_c.obj)
+
+# .abs_vector_51
+  000000CC 00000004 .abs    vector_51	(exceptions_c.obj)
+
+# .abs_vector_52
+  000000D0 00000004 .abs    vector_52	(exceptions_c.obj)
+
+# .abs_vector_53
+  000000D4 00000004 .abs    vector_53	(exceptions_c.obj)
+
+# .abs_vector_54
+  000000D8 00000004 .abs    vector_54	(exceptions_c.obj)
+
+# .abs_vector_55
+  000000DC 00000004 .abs    vector_55	(exceptions_c.obj)
+
+# .abs_vector_56
+  000000E0 00000004 .abs    vector_56	(exceptions_c.obj)
+
+# .abs_vector_57
+  000000E4 00000004 .abs    vector_57	(exceptions_c.obj)
+
+# .abs_vector_58
+  000000E8 00000004 .abs    vector_58	(exceptions_c.obj)
+
+# .abs_vector_59
+  000000EC 00000004 .abs    vector_59	(exceptions_c.obj)
+
+# .abs_vector_60
+  000000F0 00000004 .abs    vector_60	(exceptions_c.obj)
+
+# .abs_vector_61
+  000000F4 00000004 .abs    vector_61	(exceptions_c.obj)
+
+# .abs_vector_62
+  000000F8 00000004 .abs    vector_62	(exceptions_c.obj)
+
+# .abs_vector_63
+  000000FC 00000004 .abs    vector_63	(exceptions_c.obj)
+
+# .abs_vector_64
+  00000100 00000004 .abs    vector_64	(exceptions_c.obj)
+
+# .abs_vector_65
+  00000104 00000004 .abs    vector_65	(exceptions_c.obj)
+
+# .abs_vector_66
+  00000108 00000004 .abs    vector_66	(exceptions_c.obj)
+
+# .abs_vector_67
+  0000010C 00000004 .abs    vector_67	(exceptions_c.obj)
+
+# .abs_vector_68
+  00000110 00000004 .abs    vector_68	(exceptions_c.obj)
+
+# .abs_vector_69
+  00000114 00000004 .abs    vector_69	(khci_c.obj)
+
+# .abs_vector_70
+  00000118 00000004 .abs    vector_70	(exceptions_c.obj)
+
+# .abs_vector_71
+  0000011C 00000004 .abs    vector_71	(exceptions_c.obj)
+
+# .abs_vector_72
+  00000120 00000004 .abs    vector_72	(exceptions_c.obj)
+
+# .abs_vector_73
+  00000124 00000004 .abs    vector_73	(exceptions_c.obj)
+
+# .abs_vector_74
+  00000128 00000004 .abs    vector_74	(exceptions_c.obj)
+
+# .abs_vector_75
+  0000012C 00000004 .abs    vector_75	(exceptions_c.obj)
+
+# .abs_vector_76
+  00000130 00000004 .abs    vector_76	(exceptions_c.obj)
+
+# .abs_vector_77
+  00000134 00000004 .abs    vector_77	(exceptions_c.obj)
+
+# .abs_vector_78
+  00000138 00000004 .abs    vector_78	(exceptions_c.obj)
+
+# .abs_vector_79
+  0000013C 00000004 .abs    vector_79	(exceptions_c.obj)
+
+# .abs_vector_80
+  00000140 00000004 .abs    vector_80	(exceptions_c.obj)
+
+# .abs_vector_81
+  00000144 00000004 .abs    vector_81	(exceptions_c.obj)
+
+# .abs_vector_82
+  00000148 00000004 .abs    vector_82	(exceptions_c.obj)
+
+# .abs_vector_83
+  0000014C 00000004 .abs    vector_83	(exceptions_c.obj)
+
+# .abs_vector_84
+  00000150 00000004 .abs    vector_84	(exceptions_c.obj)
+
+# .abs_vector_85
+  00000154 00000004 .abs    vector_85	(sci_c.obj)
+
+# .abs_vector_86
+  00000158 00000004 .abs    vector_86	(exceptions_c.obj)
+
+# .abs_vector_87
+  0000015C 00000004 .abs    vector_87	(exceptions_c.obj)
+
+# .abs_vector_88
+  00000160 00000004 .abs    vector_88	(exceptions_c.obj)
+
+# .abs_vector_89
+  00000164 00000004 .abs    vector_89	(exceptions_c.obj)
+
+# .abs_vector_90
+  00000168 00000004 .abs    vector_90	(exceptions_c.obj)
+
+# .abs_vector_91
+  0000016C 00000004 .abs    vector_91	(rtc_c.obj)
+
+# .abs_vector_92
+  00000170 00000004 .abs    vector_92	(exceptions_c.obj)
+
+# .abs_vector_93
+  00000174 00000004 .abs    vector_93	(exceptions_c.obj)
+
+# .abs_vector_94
+  00000178 00000004 .abs    vector_94	(exceptions_c.obj)
+
+# .abs_vector_95
+  0000017C 00000004 .abs    vector_95	(exceptions_c.obj)
+
+# .abs_vector_96
+  00000180 00000004 .abs    vector_96	(exceptions_c.obj)
+
+# .abs_vector_97
+  00000184 00000004 .abs    vector_97	(exceptions_c.obj)
+
+# .abs_vector_98
+  00000188 00000004 .abs    vector_98	(exceptions_c.obj)
+
+# .abs_vector_99
+  0000018C 00000004 .abs    vector_99	(exceptions_c.obj)
+
+# .abs_vector_100
+  00000190 00000004 .abs    vector_100	(exceptions_c.obj)
+
+# .abs_vector_101
+  00000194 00000004 .abs    vector_101	(exceptions_c.obj)
+
+# .abs_vector_102
+  00000198 00000004 .abs    vector_102	(exceptions_c.obj)
+
+# .abs_vector_103
+  0000019C 00000004 .abs    vector_103	(exceptions_c.obj)
+
+# .abs_vector_104
+  000001A0 00000004 .abs    vector_104	(exceptions_c.obj)
+
+# .abs_vector_105
+  000001A4 00000004 .abs    vector_105	(exceptions_c.obj)
+
+# .abs_vector_106
+  000001A8 00000004 .abs    vector_106	(exceptions_c.obj)
+
+# .abs_vector_107
+  000001AC 00000004 .abs    vector_107	(exceptions_c.obj)
+
+# .abs_vector_108
+  000001B0 00000004 .abs    vector_108	(exceptions_c.obj)
+
+# .abs_vector_109
+  000001B4 00000004 .abs    vector_109	(exceptions_c.obj)
+
+# .abs_vector_110
+  000001B8 00000004 .abs    vector_110	(exceptions_c.obj)
+
+# .abs_NVPROT_INIT
+  0000040D 00000001 .abs    NVPROT_INIT	(main_c.obj)
+
+# .abs_NVOPT_INIT
+  0000040F 00000001 .abs    NVOPT_INIT	(main_c.obj)
+#>00001000          ___heap_size (linker command file)
+#>00000400          ___stack_size (linker command file)
+#>00800000          ___RAM_ADDRESS (linker command file)
+#>00004000          ___RAM_SIZE (linker command file)
+#>00000000          ___FLASH_ADDRESS (linker command file)
+#>00020000          ___FLASH_SIZE (linker command file)
+
+# .userram
+
+# .code
+
+# .text
+  00000410 00000008 .text   __initialize_hardware	(startcf_c.obj)
+  00000418 00000008 .text   __initialize_system	(startcf_c.obj)
+  00000420 0000006C .text   __copy_rom_section	(startcf_c.obj)
+  0000048C 0000005E .text   __copy_rom_sections_to_ram	(startcf_c.obj)
+  000004EA 00000004 .text   _ExitProcess	(startcf_c.obj)
+  000004EE 0000022A .text   clear_mem	(startcf_c.obj)
+  00000718 000000A0 .text   _startup	(startcf_c.obj)
+  000007B8 000001F0 .text   mcf_exception_handler	(exceptions_c.obj)
+  000009A8 00000022 .text   asm_exception_handler	(exceptions_c.obj)
+  000009CA 00000016 .text   Flash_Init	(flash_c.obj)
+  000009E0 000000FC .text   Flash_SectorErase	(flash_c.obj)
+  00000ADC 00000166 .text   Flash_ByteProgram	(flash_c.obj)
+  00000C42 00000030 .text   SpSub	(flash_c.obj)
+  00000C72 00000008 .text   SpSubEnd	(flash_c.obj)
+  00000C7A 00000072 .text   mem_cpy	(ff_c.obj)
+  00000CEC 00000056 .text   mem_set	(ff_c.obj)
+  00000D42 0000008E .text   mem_cmp	(ff_c.obj)
+  00000DD0 00000038 .text   chk_chr	(ff_c.obj)
+  00000E08 0000013C .text   chk_lock	(ff_c.obj)
+  00000F44 0000005A .text   enq_lock	(ff_c.obj)
+  00000F9E 0000019E .text   inc_lock	(ff_c.obj)
+  0000113C 00000058 .text   clear_lock	(ff_c.obj)
+  00001194 0000011C .text   move_window	(ff_c.obj)
+  000012B0 0000004A .text   clust2sect	(ff_c.obj)
+  000012FA 000001F8 .text   get_fat	(ff_c.obj)
+  000014F2 000002CE .text   put_fat	(ff_c.obj)
+  000017C0 000000E6 .text   remove_chain	(ff_c.obj)
+  000018A6 000001AE .text   create_chain	(ff_c.obj)
+  00001A54 00000182 .text   dir_sdi	(ff_c.obj)
+  00001BD6 0000028C .text   dir_next	(ff_c.obj)
+  00001E62 0000011C .text   cmp_lfn	(ff_c.obj)
+  00001F7E 0000012C .text   fit_lfn	(ff_c.obj)
+  000020AA 00000170 .text   gen_numname	(ff_c.obj)
+  0000221A 00000064 .text   sum_sfn	(ff_c.obj)
+  0000227E 0000021E .text   dir_find	(ff_c.obj)
+  0000249C 00000384 .text   dir_register	(ff_c.obj)
+  00002820 00000536 .text   create_name	(ff_c.obj)
+  00002D56 00000196 .text   follow_path	(ff_c.obj)
+  00002EEC 00000102 .text   check_fs	(ff_c.obj)
+  00002FEE 00000762 .text   chk_mounted	(ff_c.obj)
+  00003750 00000058 .text   validate	(ff_c.obj)
+  000037A8 00000070 .text   f_mount	(ff_c.obj)
+  00003818 0000048E .text   f_open	(ff_c.obj)
+  00003CA6 000003D0 .text   f_read	(ff_c.obj)
+  00004076 000000F8 .text   disk_initialize	(diskio_c.obj)
+  0000416E 000000C2 .text   disk_read	(diskio_c.obj)
+  00004230 000000C2 .text   disk_write	(diskio_c.obj)
+  000042F2 00000290 .text   disk_ioctl	(diskio_c.obj)
+  00004582 0000001A .text   disk_status	(diskio_c.obj)
+  0000459C 0000002E .text   callback_bulk_pipe	(diskio_c.obj)
+  000045CA 0000000E .text   get_fattime	(diskio_c.obj)
+  000045D8 000000A8 .text   ff_convert	(ccsbcs_c.obj)
+  00004680 00000076 .text   ff_wtoupper	(ccsbcs_c.obj)
+  000046F6 00000026 .text   sci1_init	(sci_c.obj)
+  0000471C 0000002E .text   TERMIO_PutChar	(sci_c.obj)
+  0000474A 00000026 .text   TERMIO_GetChar	(sci_c.obj)
+  00004770 00000070 .text   SCI2RX_ISR	(sci_c.obj)
+  000047E0 00000072 .text   InitializeUART	(sci_c.obj)
+  00004852 00000058 .text   WriteUARTN	(sci_c.obj)
+  000048AA 00000060 .text   ReadUARTN	(sci_c.obj)
+  0000490A 00000026 .text   TimerInit	(rtc_c.obj)
+  00004930 00000014 .text   EnableTimerInterrupt	(rtc_c.obj)
+  00004944 00000030 .text   Timer_ISR	(rtc_c.obj)
+  00004974 00000026 .text   delay	(rtc_c.obj)
+  0000499A 0000002C .text   time_delay	(rtc_c.obj)
+  000049C6 0000003C .text   POLL_init	(poll_c.obj)
+  00004A02 00000040 .text   POLL_register	(poll_c.obj)
+  00004A42 00000038 .text   Poll	(poll_c.obj)
+  00004A7A 0000014C .text   main	(main_c.obj)
+  00004BC6 00000050 .text   GPIO_Init	(main_c.obj)
+  00004C16 00000070 .text   Switch_mode	(main_c.obj)
+  00004C86 000000C0 .text   Main_Task	(main_c.obj)
+  00004D46 000000AA .text   erase_flash	(main_c.obj)
+  00004DF0 0000007A .text   put_rc	(main_c.obj)
+  00004E6A 00000038 .text   SetOutput	(main_c.obj)
+  00004EA2 000001B6 .text   load_image	(main_c.obj)
+  00005058 00000032 .text   BootLoader	(main_c.obj)
+  0000508A 000000B0 .text   usb_host_mass_device_event	(main_c.obj)
+  0000513A 000001B6 .text   FlashApplication	(Loader_c.obj)
+  000052F0 00000146 .text   FlashArrayS19	(Loader_c.obj)
+  00005436 000005A8 .text   FlashLineS19	(Loader_c.obj)
+  000059DE 000000CC .text   GetHexValue	(Loader_c.obj)
+  00005AAA 00000098 .text   GetSpair	(Loader_c.obj)
+  00005B42 0000003C .text   CheckAddressValid	(Loader_c.obj)
+  00005B7E 00000110 .text   FlashArrayCW	(Loader_c.obj)
+  00005C8E 0000009C .text   FlashLineCW	(Loader_c.obj)
+  00005D2A 00000028 .text   get_uint32	(Loader_c.obj)
+  00005D52 0000005A .text   _bsp_jm128_clock_init_12MHz	(usb_mcf51JM_c.obj)
+  00005DAC 00000026 .text   _bsp_platform_init	(usb_mcf51JM_c.obj)
+  00005DD2 00000034 .text   _bsp_usb_host_init	(usb_mcf51JM_c.obj)
+  00005E06 000002A6 .text   usb_host_hub_device_event	(usb_host_hub_sm_c.obj)
+  000060AC 0000091C .text   usb_host_hub_device_sm	(usb_host_hub_sm_c.obj)
+  000069C8 00000174 .text   usb_host_hub_int_callback	(usb_host_hub_sm_c.obj)
+  00006B3C 000000F2 .text   usb_hub_wait_for_interrupt	(usb_host_hub_sm_c.obj)
+  00006C2E 000000CA .text   usb_class_hub_init	(usb_host_hub_c.obj)
+  00006CF8 00000066 .text   usb_class_hub_cntrl_callback	(usb_host_hub_c.obj)
+  00006D5E 00000168 .text   usb_class_hub_cntrl_common	(usb_host_hub_c.obj)
+  00006EC6 00000064 .text   usb_class_hub_get_descriptor	(usb_host_hub_c.obj)
+  00006F2A 00000044 .text   usb_class_hub_set_port_feature	(usb_host_hub_c.obj)
+  00006F6E 00000044 .text   usb_class_hub_clear_port_feature	(usb_host_hub_c.obj)
+  00006FB2 00000048 .text   usb_class_hub_get_port_status	(usb_host_hub_c.obj)
+  00006FFA 000001CE .text   usb_mass_ufi_generic	(usb_host_msd_ufi_c.obj)
+  000071C8 00000028 .text   usb_class_mass_q_init	(usb_host_msd_queue_c.obj)
+  000071F0 000000AA .text   usb_class_mass_q_insert	(usb_host_msd_queue_c.obj)
+  0000729A 0000008C .text   usb_class_mass_deleteq	(usb_host_msd_queue_c.obj)
+  00007326 00000066 .text   usb_class_mass_get_pending_request	(usb_host_msd_queue_c.obj)
+  0000738C 00000132 .text   usb_class_mass_init	(usb_host_msd_bo_c.obj)
+  000074BE 0000015A .text   usb_class_mass_storage_device_command	(usb_host_msd_bo_c.obj)
+  00007618 000000EE .text   usb_class_mass_call_back_cbw	(usb_host_msd_bo_c.obj)
+  00007706 00000156 .text   usb_class_mass_call_back_dphase	(usb_host_msd_bo_c.obj)
+  0000785C 0000027E .text   usb_class_mass_call_back_csw	(usb_host_msd_bo_c.obj)
+  00007ADA 00000250 .text   usb_class_mass_pass_on_usb	(usb_host_msd_bo_c.obj)
+  00007D2A 000000F8 .text   usb_class_mass_clear_bulk_pipe_on_usb	(usb_host_msd_bo_c.obj)
+  00007E22 000000E0 .text   usb_class_mass_reset_recovery_on_usb	(usb_host_msd_bo_c.obj)
+  00007F02 000001EE .text   usb_class_mass_reset_callback	(usb_host_msd_bo_c.obj)
+  000080F0 00000050 .text   _usb_msgq_init	(usbmsgq_c.obj)
+  00008140 00000154 .text   _usb_msgq_send	(usbmsgq_c.obj)
+  00008294 000000F0 .text   _usb_msgq_receive	(usbmsgq_c.obj)
+  00008384 00000022 .text   _usb_event_init	(usbevent_c.obj)
+  000083A6 00000036 .text   _usb_event_set	(usbevent_c.obj)
+  000083DC 00000038 .text   _usb_event_clear	(usbevent_c.obj)
+  00008414 0000003E .text   _usb_event_wait_ticks	(usbevent_c.obj)
+  00008452 00000004 .text   mcf5xxx_byterev	(khci_c.obj)
+  00008456 00000044 .text   _usb_khci_init_int_tr	(khci_c.obj)
+  0000849A 00000086 .text   _usb_khci_add_int_tr	(khci_c.obj)
+  00008520 000006C2 .text   _usb_khci_atom_tr	(khci_c.obj)
+  00008BE2 00000172 .text   _usb_khci_process_tr_complete	(khci_c.obj)
+  00008D54 00000080 .text   _usb_khci_rm_int_tr	(khci_c.obj)
+  00008DD4 000000C2 .text   _usb_khci_init	(khci_c.obj)
+  00008E96 00000022 .text   _usb_khci_shutdown	(khci_c.obj)
+  00008EB8 0000003E .text   _usb_khci_send	(khci_c.obj)
+  00008EF6 0000002A .text   _usb_khci_cancel	(khci_c.obj)
+  00008F20 0000003E .text   _usb_khci_recv	(khci_c.obj)
+  00008F5E 00000014 .text   _usb_khci_bus_control	(khci_c.obj)
+  00008F72 0000001A .text   _usb_khci_get_frame_number	(khci_c.obj)
+  00008F8C 00000610 .text   _usb_khci_task	(khci_c.obj)
+  0000959C 0000004A .text   _usb_khci_send_setup	(khci_c.obj)
+  000095E6 0000008A .text   USB_ISR_HOST	(khci_c.obj)
+  00009670 0000008E .text   _usb_khci_host_open_pipe	(khci_c.obj)
+  000096FE 00000066 .text   _usb_khci_host_close_pipe	(khci_c.obj)
+  00009764 000000A2 .text   _usb_khci_get_hot_int_tr	(khci_c.obj)
+  00009806 0000009E .text   _usb_host_send_data	(host_snd_c.obj)
+  000098A4 0000009E .text   _usb_host_recv_data	(host_rcv_c.obj)
+  00009942 0000004E .text   _usb_host_init_call_interface	(host_main_c.obj)
+  00009990 00000068 .text   _usb_host_send_call_interface	(host_main_c.obj)
+  000099F8 00000068 .text   _usb_host_send_setup_call_interface	(host_main_c.obj)
+  00009A60 00000068 .text   _usb_host_recv_data_call_interface	(host_main_c.obj)
+  00009AC8 00000068 .text   _usb_host_cancel_call_interface	(host_main_c.obj)
+  00009B30 00000062 .text   _usb_host_close_pipe_call_interface	(host_main_c.obj)
+  00009B92 00000062 .text   _usb_host_open_pipe_call_interface	(host_main_c.obj)
+  00009BF4 00000062 .text   _usb_host_update_max_packet_size_call_interface	(host_main_c.obj)
+  00009C56 00000062 .text   _usb_host_update_device_address_call_interface	(host_main_c.obj)
+  00009CB8 000001FE .text   _usb_host_init	(host_main_c.obj)
+  00009EB6 0000006C .text   _usb_host_open_pipe_cleanup	(host_main_c.obj)
+  00009F22 0000014E .text   _usb_host_open_pipe	(host_main_c.obj)
+  0000A070 000000BE .text   _usb_host_new_tr_element	(host_main_c.obj)
+  0000A12E 00000112 .text   _usb_host_get_tr_element	(host_main_c.obj)
+  0000A240 000000B6 .text   _usb_host_set_up_TR	(host_main_c.obj)
+  0000A2F6 000000BA .text   _usb_host_send_setup	(host_main_c.obj)
+  0000A3B0 000000D2 .text   usb_dev_list_free_memory	(host_dev_list_c.obj)
+  0000A482 00000108 .text   usb_dev_list_get_memory	(host_dev_list_c.obj)
+  0000A58A 00000226 .text   usb_dev_list_attach_device	(host_dev_list_c.obj)
+  0000A7B0 000000C6 .text   usb_dev_list_close_pipe	(host_dev_list_c.obj)
+  0000A876 00000068 .text   usb_dev_list_close_pipe_bundle	(host_dev_list_c.obj)
+  0000A8DE 0000011C .text   usb_dev_list_detach_device	(host_dev_list_c.obj)
+  0000A9FA 000000B8 .text   usb_hostdev_attach_detach	(host_common_c.obj)
+  0000AAB2 00000072 .text   usb_hostdev_validate	(host_common_c.obj)
+  0000AB24 000000A2 .text   usb_hostdev_get_class	(host_common_c.obj)
+  0000ABC6 000002AE .text   _usb_hostdev_get_descriptor	(host_common_c.obj)
+  0000AE74 00000110 .text   usb_hostdev_get_pipe_handle	(host_common_c.obj)
+  0000AF84 000001AE .text   usb_host_class_intf_init	(host_common_c.obj)
+  0000B132 00000060 .text   usb_host_class_intf_validate	(host_common_c.obj)
+  0000B192 00000232 .text   usb_host_driver_info_match	(host_common_c.obj)
+  0000B3C4 000000F2 .text   usb_host_driver_info_scan	(host_common_c.obj)
+  0000B4B6 00000070 .text   usb_host_driver_info_nonzero	(host_common_c.obj)
+  0000B526 000000A0 .text   usb_host_map_class_intf	(host_common_c.obj)
+  0000B5C6 0000005E .text   _usb_host_driver_info_register	(host_common_c.obj)
+  0000B624 00000232 .text   usb_hostdev_delete_interface	(host_common_c.obj)
+  0000B856 000000B2 .text   usb_hostdev_mask_class_etc	(host_common_c.obj)
+  0000B908 000001DE .text   usb_hostdev_open_pipe	(host_common_c.obj)
+  0000BAE6 00000370 .text   _usb_hostdev_select_interface	(host_common_c.obj)
+  0000BE56 0000006C .text   usb_hostdev_tr_init	(host_common_c.obj)
+  0000BEC2 0000008A .text   _usb_host_close_pipe	(host_close_c.obj)
+  0000BF4C 00000420 .text   usb_host_cntrl_transaction_done	(host_ch9_c.obj)
+  0000C36C 00000076 .text   _usb_host_register_ch9_callback	(host_ch9_c.obj)
+  0000C3E2 00000162 .text   usb_host_ch9_dev_req	(host_ch9_c.obj)
+  0000C544 000000E0 .text   _usb_host_ch9_clear_feature	(host_ch9_c.obj)
+  0000C624 000000B8 .text   _usb_host_ch9_get_descriptor	(host_ch9_c.obj)
+  0000C6DC 0000009E .text   _usb_host_ch9_set_address	(host_ch9_c.obj)
+  0000C77A 0000008E .text   _usb_host_ch9_set_configuration	(host_ch9_c.obj)
+  0000C808 000000B4 .text   _usb_host_ch9_set_interface	(host_ch9_c.obj)
+  0000C8BC 00000146 .text   _usb_hostdev_cntrl_request	(host_ch9_c.obj)
+  0000CA02 000003E2 .text   __num2dec	(libm.a ansi_fp.o      )
+  0000CDE4 000000AE .text   frexp	(libm.a s_frexp.o      )
+  0000CE92 0000000E .text   __signbitd	(libm.a math_api.o     )
+  0000CEA0 00000050 .text   __fpclassifyd	(libm.a math_api.o     )
+  0000CEF0 00000038 .text   brk	(libc.a alloc.o        )
+  0000CF28 0000002A .text   sbrk	(libc.a alloc.o        )
+  0000CF52 0000018C .text   malloc	(libc.a alloc.o        )
+  0000D0DE 0000000E .text   free	(libc.a alloc.o        )
+  0000D0EC 00000020 .text   __prep_buffer	(libc.a buffer_io.o    )
+  0000D10C 00000056 .text   __flush_buffer	(libc.a buffer_io.o    )
+  0000D162 00000196 .text   __fwrite	(libc.a direct_io.o    )
+  0000D2F8 0000001A .text   isupper	(libc.a file_io.o      )
+  0000D312 00000012 .text   memcpy	(libc.a mem.o          )
+  0000D324 00000010 .text   memset	(libc.a mem.o          )
+  0000D334 0000001E .text   memchr	(libc.a mem.o          )
+  0000D354 00000088 .text   __fill_mem	(libc.a mem_funcs.o    )
+  0000D3DC 00000028 .text   __FileWrite	(libc.a printf.o       )
+  0000D404 00000024 .text   printf	(libc.a printf.o       )
+  0000D428 00000010 .text   strlen	(libc.a string.o       )
+  0000D438 0000000C .text   strcpy	(libc.a string.o       )
+  0000D444 0000001C .text   strchr	(libc.a string.o       )
+  0000D460 0000001A .text   isdigit	(libc.a strtold.o      )
+  0000D47A 0000030C .text   parse_format	(libc.a printformat_fp.)
+  0000D786 00000028 .text   set_base	(libc.a printformat_fp.)
+  0000D7AE 000000C0 .text   justify_conversion	(libc.a printformat_fp.)
+  0000D86E 0000011A .text   long2str	(libc.a printformat_fp.)
+  0000D988 000000D2 .text   __round_decimal	(libc.a printformat_fp.)
+  0000DA5A 000003DE .text   float2str	(libc.a printformat_fp.)
+  0000DE38 00000434 .text   __pformatterFP	(libc.a printformat_fp.)
+  0000E26C 0000001C .text   __init_uart_console	(libc.a uart_console_io)
+  0000E288 00000050 .text   __read_console	(libc.a uart_console_io)
+  0000E2D8 0000002E .text   __write_console	(libc.a uart_console_io)
+  0000E306 00000004 .text   __close_console	(libc.a uart_console_io)
+  0000E30A 0000001C .text   __call_static_initializers	(librt.a cf_staticinitia)
+  0000E326 0000002C .text   __destroy_global_chain	(librt.a cf_staticinitia)
+  0000E352 0000003E .text   __ldivu__	(librt.a cf_runtime.o   )
+  0000E390 00000034 .text   __ldiv__	(librt.a cf_runtime.o   )
+  0000E3C4 0000003C .text   __lmodu__	(librt.a cf_runtime.o   )
+  0000E400 00000034 .text   __lmod__	(librt.a cf_runtime.o   )
+  0000E434 0000000C .text   _ewl_exit	(librt.a abort_exit.o   )
+  0000E440 00000032 .text   @DummyFn1	(fp_coldfire_nodiv.a basic.o        )
+  0000E440 00000000 .text   _f_neg	(fp_coldfire_nodiv.a basic.o        )
+  0000E440 00000032 .text   .text	(fp_coldfire_nodiv.a basic.o        )
+  0000E44C 00000000 .text   _d_neg	(fp_coldfire_nodiv.a basic.o        )
+  0000E462 00000000 .text   _d_qtod	(fp_coldfire_nodiv.a basic.o        )
+  0000E462 00000000 .text   _d_dtoq	(fp_coldfire_nodiv.a basic.o        )
+  0000E474 00000614 .text   .text	(fp_coldfire_nodiv.a dadd.o         )
+  0000E474 00000000 .text   _d_add	(fp_coldfire_nodiv.a dadd.o         )
+  0000E474 00000614 .text   @DummyFn2	(fp_coldfire_nodiv.a dadd.o         )
+  0000E6A4 00000000 .text   _d_sub	(fp_coldfire_nodiv.a dadd.o         )
+  0000EA88 0000015E .text   @DummyFn3	(fp_coldfire_nodiv.a dcompare.o     )
+  0000EA88 0000015E .text   .text	(fp_coldfire_nodiv.a dcompare.o     )
+  0000EA88 00000000 .text   _d_cmp	(fp_coldfire_nodiv.a dcompare.o     )
+  0000EA92 00000000 .text   _d_cmpe	(fp_coldfire_nodiv.a dcompare.o     )
+  0000EA9C 00000000 .text   _d_feq	(fp_coldfire_nodiv.a dcompare.o     )
+  0000EAA2 00000000 .text   _d_fne	(fp_coldfire_nodiv.a dcompare.o     )
+  0000EAA8 00000000 .text   _d_flt	(fp_coldfire_nodiv.a dcompare.o     )
+  0000EAAE 00000000 .text   _d_fle	(fp_coldfire_nodiv.a dcompare.o     )
+  0000EAB4 00000000 .text   _d_fgt	(fp_coldfire_nodiv.a dcompare.o     )
+  0000EABA 00000000 .text   _d_fge	(fp_coldfire_nodiv.a dcompare.o     )
+  0000EAC4 00000000 .text   _d_fun	(fp_coldfire_nodiv.a dcompare.o     )
+  0000EACA 00000000 .text   _d_for	(fp_coldfire_nodiv.a dcompare.o     )
+  0000EBE8 00000448 .text   @DummyFn4	(fp_coldfire_nodiv.a ddiv.o         )
+  0000EBE8 00000000 .text   _d_div	(fp_coldfire_nodiv.a ddiv.o         )
+  0000EBE8 00000448 .text   .text	(fp_coldfire_nodiv.a ddiv.o         )
+  0000F030 00000598 .text   @DummyFn5	(fp_coldfire_nodiv.a dmul.o         )
+  0000F030 00000000 .text   _d_mul	(fp_coldfire_nodiv.a dmul.o         )
+  0000F030 00000598 .text   .text	(fp_coldfire_nodiv.a dmul.o         )
+  0000F5C8 00000056 .text   @DummyFn6	(fp_coldfire_nodiv.a dterminals.o   )
+  0000F5C8 00000000 .text   _fp_d_rounding	(fp_coldfire_nodiv.a dterminals.o   )
+  0000F5C8 00000056 .text   .text	(fp_coldfire_nodiv.a dterminals.o   )
+  0000F5F0 00000000 .text   _fp_d_underflow	(fp_coldfire_nodiv.a dterminals.o   )
+  0000F604 00000000 .text   _fp_d_overflow	(fp_coldfire_nodiv.a dterminals.o   )
+  0000F620 0000008E .text   @DummyFn8	(fp_coldfire_nodiv.a dtoi.o         )
+  0000F620 00000000 .text   _d_dtoi	(fp_coldfire_nodiv.a dtoi.o         )
+  0000F620 0000008E .text   .text	(fp_coldfire_nodiv.a dtoi.o         )
+  0000F6B0 00000136 .text   @DummyFn22	(fp_coldfire_nodiv.a int_to_d.o     )
+  0000F6B0 00000136 .text   .text	(fp_coldfire_nodiv.a int_to_d.o     )
+  0000F6B0 00000000 .text   _d_utod	(fp_coldfire_nodiv.a int_to_d.o     )
+  0000F6F6 00000000 .text   _d_itod	(fp_coldfire_nodiv.a int_to_d.o     )
+  0000F712 00000000 .text   _d_ulltod	(fp_coldfire_nodiv.a int_to_d.o     )
+  0000F7A4 00000000 .text   _d_lltod	(fp_coldfire_nodiv.a int_to_d.o     )
+  0000F7E8 00000058 .text   @DummyFn24	(fp_coldfire_nodiv.a soft_division.o)
+  0000F7E8 00000000 .text   _fp_PA_divu16	(fp_coldfire_nodiv.a soft_division.o)
+  0000F7E8 00000058 .text   .text	(fp_coldfire_nodiv.a soft_division.o)
+  0000F840 00000004 .rodata VolToPart	(ff_c.obj)
+  0000F844 0000000D .rodata LfnOfs	(ff_c.obj)
+  0000F851 00000080 .rodata @LOCAL@create_name__FPstructPPCc@excvt	(ff_c.obj)
+  0000F8D1 00000009 .rodata @1206	(ff_c.obj)
+  0000F8DA 00000007 .rodata @1207	(ff_c.obj)
+  0000F8E2 00000100 .rodata Tbl	(ccsbcs_c.obj)
+  0000F9E2 000001E0 .rodata @LOCAL@ff_wtoupper__FUs@tbl_lower	(ccsbcs_c.obj)
+  0000FBC2 000001E0 .rodata @LOCAL@ff_wtoupper__FUs@tbl_upper@0	(ccsbcs_c.obj)
+  0000FDA4 00000030 .rodata DriverInfoTable	(main_c.obj)
+  0000FDD4 0000002C .rodata @53	(main_c.obj)
+  0000FE00 00000028 .rodata @54	(main_c.obj)
+  0000FE28 00000050 .rodata @55	(main_c.obj)
+  0000FE78 0000004F .rodata @56	(main_c.obj)
+  0000FEC7 0000004F .rodata @57	(main_c.obj)
+  0000FF16 00000049 .rodata @58	(main_c.obj)
+  0000FF5F 00000022 .rodata @94	(main_c.obj)
+  0000FF81 0000001F .rodata @111	(main_c.obj)
+  0000FFA0 00000020 .rodata @112	(main_c.obj)
+  0000FFC0 00000029 .rodata @113	(main_c.obj)
+  0000FFE9 0000001C .rodata @137	(main_c.obj)
+  00010005 00000016 .rodata @138	(main_c.obj)
+  0001001B 00000002 .rodata @139	(main_c.obj)
+  0001001D 00000014 .rodata @140	(main_c.obj)
+  00010031 000000D1 .rodata @168	(main_c.obj)
+  00010102 0000001A .rodata @169	(main_c.obj)
+  0001011C 0000001A .rodata @213	(main_c.obj)
+  00010136 0000000A .rodata @214	(main_c.obj)
+  00010140 0000000A .rodata @215	(main_c.obj)
+  0001014A 00000014 .rodata @216	(main_c.obj)
+  0001015E 00000012 .rodata @217	(main_c.obj)
+  00010170 0000002B .rodata @218	(main_c.obj)
+  0001019B 0000001F .rodata @219	(main_c.obj)
+  000101BA 00000019 .rodata @276	(main_c.obj)
+  000101D3 0000002A .rodata @298	(main_c.obj)
+  000101FD 00000026 .rodata @299	(main_c.obj)
+  00010223 00000019 .rodata @60	(Loader_c.obj)
+  0001023C 00000032 .rodata @61	(Loader_c.obj)
+  0001026E 00000022 .rodata @62	(Loader_c.obj)
+  00010290 00000033 .rodata @63	(Loader_c.obj)
+  000102C3 00000018 .rodata @64	(Loader_c.obj)
+  000102DB 00000023 .rodata @65	(Loader_c.obj)
+  000102FE 00000002 .rodata @66	(Loader_c.obj)
+  00010300 00000038 .rodata _bsp_usb_host_callback_table	(khci_c.obj)
+  00010338 00000024 .rodata pipe_init_params_prototype	(host_dev_list_c.obj)
+  0001035C 00000048 .rodata bit_values	(libm.a ansi_fp.o      )
+  000103A4 00000040 .rodata digit_values	(libm.a ansi_fp.o      )
+  000103E4 00000081 .rodata _ctypes_	(libc.a ctype.o        )
+  00010465 00000005 .rodata @821	(libc.a printformat_fp.)
+  0001046A 00000005 .rodata @822	(libc.a printformat_fp.)
+  0001046F 00000004 .rodata @823	(libc.a printformat_fp.)
+  00010473 00000004 .rodata @824	(libc.a printformat_fp.)
+  00010477 00000005 .rodata @825	(libc.a printformat_fp.)
+  0001047C 00000005 .rodata @826	(libc.a printformat_fp.)
+  00010481 00000004 .rodata @827	(libc.a printformat_fp.)
+  00010485 00000004 .rodata @828	(libc.a printformat_fp.)
+  00010489 00000001 .rodata @1096	(libc.a printformat_fp.)
+#>0001048C          ___ROM_AT (linker command file)
+#>0001048C          ___DATA_ROM (linker command file)
+
+# .data
+#>00800000          ___DATA_RAM (linker command file)
+#>00800000          __exception_table_start__ (linker command file)
+# Exception index
+  00800000 00000000         Exception Table Index	()
+#>00800000          __exception_table_end__ (linker command file)
+#>00800000          ___sinit__ (linker command file)
+# Linker generated symbols
+  00800000 00000004         static initializer	(linker generated)
+#>00800004          __START_DATA (linker command file)
+  00800004 00000001 .data   @LOCAL@disk_initialize__FUc@first_time_flag	(diskio_c.obj)
+  00800005 00000024 .data   class_interface_map	(usb_classes_c.obj)
+  0080002C 00000004 .data   @LOCAL@_usb_khci_task__Fv@seq_ints	(khci_c.obj)
+  00800030 000000CC .data   __files	(libc.a ansi_files.o   )
+#>008000FC          __END_DATA (linker command file)
+#>008000FC          __START_SDATA (linker command file)
+  008000FC 00000004 .sdata  tail	(libc.a alloc.o        )
+  00800100 00000004 .sdata  __break	(libc.a alloc.o        )
+#>00800104          __END_SDATA (linker command file)
+#>00800104          ___DATA_END (linker command file)
+#>00800104          __SDA_BASE (linker command file)
+
+# .bss
+#>00800104          ___BSS_START (linker command file)
+#>00800104          __START_SBSS (linker command file)
+  00800104 00000004 .sbss   head	(libc.a alloc.o        )
+  00800108 00000004 .sbss   @LOCAL@__init_uart_console__Fv@initialized	(libc.a uart_console_io)
+#>0080010C          __END_SBSS (linker command file)
+#>0080010C          __START_BSS (linker command file)
+  0080010C 00000018 .bss    Files	(ff_c.obj)
+  00800124 00000001 .bss    CurrVol	(ff_c.obj)
+  00800126 00000002 .bss    Fsid	(ff_c.obj)
+  00800128 00000008 .bss    FatFs	(ff_c.obj)
+  00800130 00000020 .bss    mass_device	(diskio_c.obj)
+  00800150 00000001 .bss    bCallBack	(diskio_c.obj)
+  00800151 00000004 .bss    bStatus	(diskio_c.obj)
+  00800155 00000024 .bss    @LOCAL@disk_ioctl__FUcUcPv@inquiry@0	(diskio_c.obj)
+  00800179 00000012 .bss    @LOCAL@disk_ioctl__FUcUcPv@req_sense@1	(diskio_c.obj)
+  0080018B 00000024 .bss    pCmd	(diskio_c.obj)
+  008001B0 00000004 .bss    buff_index	(sci_c.obj)
+  008001B4 000000C8 .bss    buff	(sci_c.obj)
+  0080027C 00000004 .bss    delay_count	(rtc_c.obj)
+  00800280 00000018 .bss    g_poll	(poll_c.obj)
+  00800298 00000001 .bss    @LOCAL@Main_Task__Fv@bootloader_task	(main_c.obj)
+  00800299 00000001 .bss    @LOCAL@load_image__Fv@result	(main_c.obj)
+  0080029C 00000004 .bss    New_pc	(main_c.obj)
+  008002A0 00000004 .bss    New_sp	(main_c.obj)
+  008002A4 00000004 .bss    @LOCAL@FlashApplication__FPUcUl@bytes_written	(Loader_c.obj)
+  008002A8 00000001 .bss    @LOCAL@FlashArrayS19__FPUcUlPUc@t	(Loader_c.obj)
+  008002A9 00000001 .bss    @LOCAL@FlashArrayS19__FPUcUlPUc@curL@0	(Loader_c.obj)
+  008002AA 00000001 .bss    @LOCAL@FlashArrayS19__FPUcUlPUc@totalL@1	(Loader_c.obj)
+  008002AB 00000001 .bss    @LOCAL@FlashArrayS19__FPUcUlPUc@newline@2	(Loader_c.obj)
+  008002AC 00000001 .bss    @LOCAL@FlashLineS19__FPUc@length	(Loader_c.obj)
+  008002AD 00000001 .bss    @LOCAL@FlashLineS19__FPUc@checksum@0	(Loader_c.obj)
+  008002AE 00000001 .bss    @LOCAL@FlashLineS19__FPUc@i@1	(Loader_c.obj)
+  008002AF 00000001 .bss    @LOCAL@FlashLineS19__FPUc@offset@2	(Loader_c.obj)
+  008002B0 00000001 .bss    @LOCAL@FlashLineS19__FPUc@temp@3	(Loader_c.obj)
+  008002B1 00000001 .bss    @LOCAL@FlashLineS19__FPUc@c_temp@4	(Loader_c.obj)
+  008002B2 00000001 .bss    @LOCAL@FlashLineS19__FPUc@j@5	(Loader_c.obj)
+  008002B3 00000001 .bss    @LOCAL@FlashLineS19__FPUc@type@6	(Loader_c.obj)
+  008002B4 00000001 .bss    @LOCAL@FlashLineS19__FPUc@data@7	(Loader_c.obj)
+  008002B5 00000001 .bss    @LOCAL@FlashLineS19__FPUc@cur_point@8	(Loader_c.obj)
+  008002B8 00000004 .bss    @LOCAL@FlashArrayCW__FPUcUlPUc@curL	(Loader_c.obj)
+  008002BC 00000004 .bss    @LOCAL@FlashArrayCW__FPUcUlPUc@totalL@0	(Loader_c.obj)
+  008002C0 00000001 .bss    @LOCAL@FlashArrayCW__FPUcUlPUc@newline@1	(Loader_c.obj)
+  008002C1 00000104 .bss    line	(Loader_c.obj)
+  008003C5 00000001 .bss    filetype	(Loader_c.obj)
+  008003C6 00000001 .bss    BootloaderStatus	(Loader_c.obj)
+  008003C8 00000004 .bss    S19Address	(Loader_c.obj)
+  008003CC 00000001 .bss    S19FileDone	(Loader_c.obj)
+  008003D0 00000004 .bss    hubs	(usb_host_hub_sm_c.obj)
+  008003D4 00000004 .bss    hub_anchor	(usb_host_hub_c.obj)
+  008003D8 00000004 .bss    mass_anchor	(usb_host_msd_bo_c.obj)
+  008003DC 00000004 .bss    index	(usbmsgq_c.obj)
+  008003E0 000000C8 .bss    element_array	(usbmsgq_c.obj)
+  008004A8 00000004 .bss    last_to_pipe	(khci_c.obj)
+  008004AC 0000000C .bss    @LOCAL@_usb_khci_task__Fv@msg@1	(khci_c.obj)
+  008004B8 00000004 .bss    @LOCAL@_usb_khci_task__Fv@remain@2	(khci_c.obj)
+  008004BC 00000004 .bss    @LOCAL@_usb_khci_task__Fv@res@3	(khci_c.obj)
+  008004C0 00000004 .bss    @LOCAL@_usb_khci_task__Fv@buf@4	(khci_c.obj)
+  008004C4 000000A0 .bss    TR_INT_QUE	(khci_c.obj)
+  00800564 00000018 .bss    tr_que	(khci_c.obj)
+  0080057C 00000008 .bss    khci_event	(khci_c.obj)
+  00800584 00000020 .bss    endpoint_data	(khci_c.obj)
+  008005A4 00000004 .bss    usb_host_state_struct_ptr	(host_main_c.obj)
+  008005A8 00000004 .bss    Class_Interface_Key	(host_common_c.obj)
+  008005AC 00000034 .bss    tr_prototype	(host_common_c.obj)
+  008005E0 00000008 .bss    req_prototype	(host_ch9_c.obj)
+  008005E8 00000004 .bss    __global_destructor_chain	(librt.a cf_staticinitia)
+#>008005EC          __END_BSS (linker command file)
+#>008005EC          ___BSS_END (linker command file)
+
+# .main_application_data
+#>00803E00          __BDT_BASE (linker command file)
+  00803E00 00000200 .usb_bdt bdt	(khci_c.obj)
+#>00804000          __BDT_END (linker command file)
+
+# .custom
+#>008005EC          ___HEAP_START (linker command file)
+#>008005EC          ___heap_addr (linker command file)
+#>008015EC          ___HEAP_END (linker command file)
+#>008015EC          ___SP_END (linker command file)
+#>008019EC          ___SP_INIT (linker command file)
+#>008015EC          ___mem_limit (linker command file)
+#>00000010          ___stack_safety (linker command file)
+#>008019EC          __SP_INIT (linker command file)
+#>008019EC          ___SP_AFTER_RESET (linker command file)
+#>00010590          _romp_at (linker command file)
+
+# .romp
+#>00010590          __S_romp (linker command file)
+
+
+# Memory map:
+  v_addr   p_addr   size     name
+  00000000 00000000 00000004 .abs_vector_0 abs_vector_0
+  00000004 00000004 00000004 .abs_vector_1 abs_vector_1
+  00000008 00000008 00000004 .abs_vector_2 abs_vector_2
+  0000000C 0000000C 00000004 .abs_vector_3 abs_vector_3
+  00000010 00000010 00000004 .abs_vector_4 abs_vector_4
+  00000014 00000014 00000004 .abs_vector_5 abs_vector_5
+  00000018 00000018 00000004 .abs_vector_6 abs_vector_6
+  0000001C 0000001C 00000004 .abs_vector_7 abs_vector_7
+  00000020 00000020 00000004 .abs_vector_8 abs_vector_8
+  00000024 00000024 00000004 .abs_vector_9 abs_vector_9
+  00000028 00000028 00000004 .abs_vector_10 abs_vector_10
+  0000002C 0000002C 00000004 .abs_vector_11 abs_vector_11
+  00000030 00000030 00000004 .abs_vector_12 abs_vector_12
+  00000034 00000034 00000004 .abs_vector_13 abs_vector_13
+  00000038 00000038 00000004 .abs_vector_14 abs_vector_14
+  0000003C 0000003C 00000004 .abs_vector_15 abs_vector_15
+  00000040 00000040 00000004 .abs_vector_16 abs_vector_16
+  00000044 00000044 00000004 .abs_vector_17 abs_vector_17
+  00000048 00000048 00000004 .abs_vector_18 abs_vector_18
+  0000004C 0000004C 00000004 .abs_vector_19 abs_vector_19
+  00000050 00000050 00000004 .abs_vector_20 abs_vector_20
+  00000054 00000054 00000004 .abs_vector_21 abs_vector_21
+  00000058 00000058 00000004 .abs_vector_22 abs_vector_22
+  0000005C 0000005C 00000004 .abs_vector_23 abs_vector_23
+  00000060 00000060 00000004 .abs_vector_24 abs_vector_24
+  00000064 00000064 00000004 .abs_vector_25 abs_vector_25
+  00000068 00000068 00000004 .abs_vector_26 abs_vector_26
+  0000006C 0000006C 00000004 .abs_vector_27 abs_vector_27
+  00000070 00000070 00000004 .abs_vector_28 abs_vector_28
+  00000074 00000074 00000004 .abs_vector_29 abs_vector_29
+  00000078 00000078 00000004 .abs_vector_30 abs_vector_30
+  0000007C 0000007C 00000004 .abs_vector_31 abs_vector_31
+  00000080 00000080 00000004 .abs_vector_32 abs_vector_32
+  00000084 00000084 00000004 .abs_vector_33 abs_vector_33
+  00000088 00000088 00000004 .abs_vector_34 abs_vector_34
+  0000008C 0000008C 00000004 .abs_vector_35 abs_vector_35
+  00000090 00000090 00000004 .abs_vector_36 abs_vector_36
+  00000094 00000094 00000004 .abs_vector_37 abs_vector_37
+  00000098 00000098 00000004 .abs_vector_38 abs_vector_38
+  0000009C 0000009C 00000004 .abs_vector_39 abs_vector_39
+  000000A0 000000A0 00000004 .abs_vector_40 abs_vector_40
+  000000A4 000000A4 00000004 .abs_vector_41 abs_vector_41
+  000000A8 000000A8 00000004 .abs_vector_42 abs_vector_42
+  000000AC 000000AC 00000004 .abs_vector_43 abs_vector_43
+  000000B0 000000B0 00000004 .abs_vector_44 abs_vector_44
+  000000B4 000000B4 00000004 .abs_vector_45 abs_vector_45
+  000000B8 000000B8 00000004 .abs_vector_46 abs_vector_46
+  000000BC 000000BC 00000004 .abs_vector_47 abs_vector_47
+  000000C0 000000C0 00000004 .abs_vector_48 abs_vector_48
+  000000C4 000000C4 00000004 .abs_vector_49 abs_vector_49
+  000000C8 000000C8 00000004 .abs_vector_50 abs_vector_50
+  000000CC 000000CC 00000004 .abs_vector_51 abs_vector_51
+  000000D0 000000D0 00000004 .abs_vector_52 abs_vector_52
+  000000D4 000000D4 00000004 .abs_vector_53 abs_vector_53
+  000000D8 000000D8 00000004 .abs_vector_54 abs_vector_54
+  000000DC 000000DC 00000004 .abs_vector_55 abs_vector_55
+  000000E0 000000E0 00000004 .abs_vector_56 abs_vector_56
+  000000E4 000000E4 00000004 .abs_vector_57 abs_vector_57
+  000000E8 000000E8 00000004 .abs_vector_58 abs_vector_58
+  000000EC 000000EC 00000004 .abs_vector_59 abs_vector_59
+  000000F0 000000F0 00000004 .abs_vector_60 abs_vector_60
+  000000F4 000000F4 00000004 .abs_vector_61 abs_vector_61
+  000000F8 000000F8 00000004 .abs_vector_62 abs_vector_62
+  000000FC 000000FC 00000004 .abs_vector_63 abs_vector_63
+  00000100 00000100 00000004 .abs_vector_64 abs_vector_64
+  00000104 00000104 00000004 .abs_vector_65 abs_vector_65
+  00000108 00000108 00000004 .abs_vector_66 abs_vector_66
+  0000010C 0000010C 00000004 .abs_vector_67 abs_vector_67
+  00000110 00000110 00000004 .abs_vector_68 abs_vector_68
+  00000114 00000114 00000004 .abs_vector_69 abs_vector_69
+  00000118 00000118 00000004 .abs_vector_70 abs_vector_70
+  0000011C 0000011C 00000004 .abs_vector_71 abs_vector_71
+  00000120 00000120 00000004 .abs_vector_72 abs_vector_72
+  00000124 00000124 00000004 .abs_vector_73 abs_vector_73
+  00000128 00000128 00000004 .abs_vector_74 abs_vector_74
+  0000012C 0000012C 00000004 .abs_vector_75 abs_vector_75
+  00000130 00000130 00000004 .abs_vector_76 abs_vector_76
+  00000134 00000134 00000004 .abs_vector_77 abs_vector_77
+  00000138 00000138 00000004 .abs_vector_78 abs_vector_78
+  0000013C 0000013C 00000004 .abs_vector_79 abs_vector_79
+  00000140 00000140 00000004 .abs_vector_80 abs_vector_80
+  00000144 00000144 00000004 .abs_vector_81 abs_vector_81
+  00000148 00000148 00000004 .abs_vector_82 abs_vector_82
+  0000014C 0000014C 00000004 .abs_vector_83 abs_vector_83
+  00000150 00000150 00000004 .abs_vector_84 abs_vector_84
+  00000154 00000154 00000004 .abs_vector_85 abs_vector_85
+  00000158 00000158 00000004 .abs_vector_86 abs_vector_86
+  0000015C 0000015C 00000004 .abs_vector_87 abs_vector_87
+  00000160 00000160 00000004 .abs_vector_88 abs_vector_88
+  00000164 00000164 00000004 .abs_vector_89 abs_vector_89
+  00000168 00000168 00000004 .abs_vector_90 abs_vector_90
+  0000016C 0000016C 00000004 .abs_vector_91 abs_vector_91
+  00000170 00000170 00000004 .abs_vector_92 abs_vector_92
+  00000174 00000174 00000004 .abs_vector_93 abs_vector_93
+  00000178 00000178 00000004 .abs_vector_94 abs_vector_94
+  0000017C 0000017C 00000004 .abs_vector_95 abs_vector_95
+  00000180 00000180 00000004 .abs_vector_96 abs_vector_96
+  00000184 00000184 00000004 .abs_vector_97 abs_vector_97
+  00000188 00000188 00000004 .abs_vector_98 abs_vector_98
+  0000018C 0000018C 00000004 .abs_vector_99 abs_vector_99
+  00000190 00000190 00000004 .abs_vector_100 abs_vector_100
+  00000194 00000194 00000004 .abs_vector_101 abs_vector_101
+  00000198 00000198 00000004 .abs_vector_102 abs_vector_102
+  0000019C 0000019C 00000004 .abs_vector_103 abs_vector_103
+  000001A0 000001A0 00000004 .abs_vector_104 abs_vector_104
+  000001A4 000001A4 00000004 .abs_vector_105 abs_vector_105
+  000001A8 000001A8 00000004 .abs_vector_106 abs_vector_106
+  000001AC 000001AC 00000004 .abs_vector_107 abs_vector_107
+  000001B0 000001B0 00000004 .abs_vector_108 abs_vector_108
+  000001B4 000001B4 00000004 .abs_vector_109 abs_vector_109
+  000001B8 000001B8 00000004 .abs_vector_110 abs_vector_110
+  0000040D 0000040D 00000001 .abs_NVPROT_INIT abs_NVPROT_INIT
+  0000040F 0000040F 00000001 .abs_NVOPT_INIT abs_NVOPT_INIT
+  00000410 00000410 00000000 .code      code
+  00000410 00000410 0001007C .text      code
+  00800000 00800000 00000000 .userram   userram
+  00800000 0001048C 00000104 .data      userram
+  00800104 00800104 000004E8 .bss       userram
+  008005EC 008005EC 00000000 .custom    userram
+  008005EC 00010590 00000018 .romp      userram
+  00803E00 00803E00 00000200 .main_application_data ram
+
+# Link start time: Fri Jan 20 16:16:41 2012
+# Link end time: Fri Jan 20 16:16:41 2012
